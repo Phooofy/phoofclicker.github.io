@@ -3,7 +3,7 @@ export default function Home() {
     <main style={{padding:"40px"}}>
       <h1>My Games</h1>
 
-      <a href="/dashboard/settings/">
+      <a href="/dashboard/settings/index.html">
         Play Cookie Clicker
       </a>
     </main>
