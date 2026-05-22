@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Cookie Site",
+  title: "Network settings",
   description: "My game site",
 };
 
