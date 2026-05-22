@@ -1,10 +1,10 @@
 export default function Home() {
   return (
     <main style={{padding:"40px"}}>
-      <h1>My Games</h1>
+      <h1>Network Protocol List</h1>
 
-      <a href="/dashboard/settings/index.html">
-        Play Cookie Clicker
+      <a href="/dashboard/settings">
+        Expand
       </a>
     </main>
   )
