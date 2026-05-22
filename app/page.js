@@ -1,8 +1,11 @@
-export default function Page() {
+export default function Home() {
   return (
-    <iframe
-      src="/games/cookieclicker/index.html"
-      style={{ width: "100%", height: "100vh", border: "none" }}
-    />
-  );
+    <main style={{padding:"40px"}}>
+      <h1>My Games</h1>
+
+      <a href="/dashboard/settings/">
+        Play Cookie Clicker
+      </a>
+    </main>
+  )
 }
